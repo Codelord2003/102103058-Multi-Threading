@@ -17,10 +17,9 @@ Diminishing Returns: Beyond a certain point  the performance improvement diminis
 System Resource Limitations: The observed behavior could also be influenced by system resource limitations. As the number of processes increases, the system's CPU cores, memory bandwidth, and other resources may become saturated, leading to reduced efficiency and performance.
 
 Graph :
-![image](https://github.com/Codelord2003/102103058-Multi-Threading/assets/95679005/b4caaed6-f948-4ee5-a046-4abd707f9fb1)
+![image](https://github.com/Codelord2003/102103058-Multi-Threading/assets/95679005/15618ff1-f72e-43a1-90b4-bc3f70b8aea8)
 
 
-CPU USAGE :
 ![image](https://github.com/Codelord2003/102103058-Multi-Threading/assets/95679005/2f7f485c-1f01-476e-91e8-6e0d8a6a29d9)
 ![image](https://github.com/Codelord2003/102103058-Multi-Threading/assets/95679005/073c72ba-097e-4640-9767-34082779adc5)
 ![image](https://github.com/Codelord2003/102103058-Multi-Threading/assets/95679005/63bfc897-2e8b-4d89-98a4-4ad0f6bef110)
